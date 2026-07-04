@@ -10,7 +10,6 @@ env/
 .env/
 
 # Miscellaneous
-.png/
 .DS_Store
-Icon
+
 
