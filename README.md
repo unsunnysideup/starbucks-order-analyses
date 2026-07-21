@@ -13,7 +13,7 @@ The [dataset](https://www.kaggle.com/datasets/likithagedipudi/starbucks-customer
 ## Outline
 Given the depth and scope of this project, the analysis will be broken up into 4 components and released on separate days:
 
-[X] Understanding Customer Loyalty Through 100,000 Orders: An RFM analysis  
+[X] [Understanding Customer Loyalty Through 100,000 Orders: An RFM analysis](https://github.com/unsunnysideup/starbucks-order-analyses/blob/main/rfm.ipynb)  
 [ ] Here's what an Algorithm says about Starbucks' Customers: K-Means Clustering Analysis  
 [ ] Detecting Churn: Logistic Regression vs. Decision Tree Analysis  
 [ ] Time Series Analysis and Forecasting on Sales and Orders: ARIMA Analysis  
